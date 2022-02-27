@@ -1,0 +1,572 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seekers supplied, or Three and forty non-church queries by Scripture answered. Penned and publish't for the vindication of Christs commands, and edification and confirmation of his people. / By Thomas Killcop, servant to Christ Iesus, the King of Kings.</title>
+            <author>Killcop, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87721</idno>
+            <idno type="STC">Wing K439</idno>
+            <idno type="STC">Thomason E359_14</idno>
+            <idno type="STC">ESTC R201173</idno>
+            <idno type="EEBO-CITATION">99861721</idno>
+            <idno type="PROQUEST">99861721</idno>
+            <idno type="VID">113863</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87721)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113863)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 58:E359[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Seekers supplied, or Three and forty non-church queries by Scripture answered. Penned and publish't for the vindication of Christs commands, and edification and confirmation of his people. / By Thomas Killcop, servant to Christ Iesus, the King of Kings.</title>
+                  <author>Killcop, Thomas.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Paine for George Whittington, and are to be sold at his shop at the Blew Anchor in Corn-Hill neer the Royall Exchange.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nouemb: 2d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Study and teaching --  Early works to 1800.</term>
+               <term>Bible --  Commentaries --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113863:1"/>
+            <pb facs="tcp:113863:1" rendition="simple:additions"/>
+            <p>SEEKERS SVPPLYED, OR Three and forty Non-Church Que<g ref="char:EOLhyphen"/>ries by Scripture anſwered. Penned and pub<g ref="char:EOLhyphen"/>liſh't for the vindication of Chriſts Commands, and edification and confirmation of his people.</p>
+            <p>By <hi>Thomas Killcop,</hi> Servant to Chriſt Ieſus, the King of Kings.</p>
+            <q>
+               <bibl>
+                  <hi>CANT. 2.14.15.</hi>
+               </bibl>
+               <p>O my Dove, that art in the Clefts of the rock, in the ſe<g ref="char:EOLhyphen"/>cret places of the ſtaires: let me ſee thy countenance, let me heare thy voice, for thy voice is ſweet, and thy countenance is comely.</p>
+               <p>Take (for) us the Foxes, the little Foxes: which ſpoile the Vines, for our Vines have tender grapes.</p>
+               <bibl>
+                  <hi>IUDE 3.</hi>
+               </bibl>
+               <p>Beloved it is needfull to write unto you, and to exhort you to contend, and that earneſtly too: for that faith that was once delivered to the Saints.</p>
+            </q>
+            <p>LONDON, Printed by <hi>Tho. Paine</hi> for <hi>George Whit<g ref="char:EOLhyphen"/>tington,</hi> and are to be ſold at his Shop at the Blew Anchor in Corn-hill neer the Royall Exchange. 1646.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:113863:2"/>
+            <pb facs="tcp:113863:2"/>
+            <head>To the Chriſtian Reader.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S <hi>Iſrael</hi> departing out of <hi>Babell,</hi> to repaire <hi>Zion,</hi> were hindred: ſo now ſpirituall <hi>Iſrael</hi> departing ſpiritually from ſpirituall <hi>Babell,</hi> to repaire and build up ſpirituall <hi>Zion,</hi> are alſo hindred by ſuch as are called (Non-Worſhippers) and as they built and held weapons too, ſo muſt we ſpiritually. Of theſe are three ſorts, ſome deny worſhip only, ſome believers al<g ref="char:EOLhyphen"/>ſo, and ſome deny Scripture too. The firſt ſort are moſt conſciencious, but the laſt are trueſt to their principles; for ſuch gifts as they ſay, muſt accompany Adminiſtrators, and confirm adminiſtrations. Are rather by Scripture ſpeech to accompany believing, and to confirme the word to be the word A<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Mat. 16.17.20. Heb. 2.4. Mar. 1.27. Iohn 12.37.</hi> Therefore that Non-Worſhipper that is not alſo a Non-Believer, yea that doth not by Scripture deny Scripture, is not true to his principles. And if the firſt ſort (which I have to deale with) dare own Scripture to be Scripture, and themſelves Believers, though they want gifts, much more hold might they be, to practice this received word, and declare their faith by obedience, though they want the ſame gifts.</p>
+            <p>Theſe <hi>I</hi> take to be the Foxes ſpecified, <hi>Can. 2 15.</hi> there is firſt the ſpeech of Chriſt to his people, and therein, Exhortations, and provocations to worſhip, <hi>verſe 14.</hi> And then their reply to him, declaring their grie<g ref="char:EOLhyphen"/>vances, in that the Vines are injured, and their ſmall fruit hindred by little Foxes. Theſe vines are believers, fruit is obedience, <hi>Iohn 15.8.</hi> and theſe Foxes are ſuch as (what in them lies) hinders the Saints fruitfullneſſe as <hi>I</hi> conceive.</p>
+            <p>
+               <pb facs="tcp:113863:3"/>They petition, and ſo doe I, (not to man, but God) that Chriſt (not the Woolfe) would take them, and bind them, with the cords of love and pierce them, (not in the fleſh with a ſword of ſteele, but) <hi>in the heart with the ſword of the ſpirit. For the weapons of our War<g ref="char:EOLhyphen"/>fare are not carnall, but ſpirituall, and mighty through God, to caſt downe, &amp;c. Acts 2.37. Heb. 4.12. 2 Cor. 10.4.</hi>
+            </p>
+            <p>Their way is to ſtudy ſuttle queries, which pusſles, and puts at a ſtand, the (weake, but) conſciencious people. For tis eaſie to propound what is hard to anſwer, they are ſuttle, and I ſimple, they in parts ſtrong, and <hi>I</hi> weake. But I have the word on my ſide, which they have not, and truth feares no cullers, and I faint not, knowing that <hi>God makes babes to praiſe him, Mat. 21.16.</hi> they quote Scriptures, ſo do I Let the Reader weigh theirs and mine, and ſee whoſe are ſuta<g ref="char:EOLhyphen"/>ble to what they are brought for, and whoſe not. I have covited brevi<g ref="char:EOLhyphen"/>ty, therefore read deliberately, weigh carefully, practice conſcionably. Farewell.</p>
+            <closer>
+               <signed>
+                  <hi>Thine in Chriſts cauſe.</hi> Thomas Killcop.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:113863:3"/>
+            <head>SEEKERS SVPPLYED. Or 43. Non-Church queries breifly and plainly anſwered by Scripture.</head>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quere </seg>1</label>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hether the viſible congregated Churches of Chriſt did, or ever ſhould ſuffer defection under Antichriſt, from theſe and other Scriptures.</hi> Jer. 10.20. Dan. 8.13. and 9.25. and 11.31. and 12.7.11. Hoſ. 3.4, 5. Amos 5.13. and 8.12.11. Mich. 3.6 7. Luk. 17.22.23. Joh. 9.4. 1 Theſ. 2.3. 1 Tim, 3.5. Rev. 11. and 12.6. and 15.8.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>2</label>
+               <hi>Whether the defection, ſhould be totall, or in part only?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> Though ſome of theſe Scriptures concerne the Jewes only, ſome Chriſts perſonall preſents, ſome the day of glory, hardly any ſeemingly for the thing in hand. Yet I grant a defection hath been (in part; yea, wholy) but this defection is vicious, not vertuous: and though it hath been, it ſhould not be. As <hi>Luk.</hi> 19.13. <hi>Rev.</hi> 2.25. 1 <hi>Tim.</hi> 6.14. 2 <hi>Pet.</hi> 1.19.</p>
+            <p>And a recoverie from this defection, (either in whole or in part) is vertuous, not vicious. <hi>Cant.</hi> 1.7, 8. <hi>Iude</hi> 3. <hi>Rev.</hi> 2.5.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label>
+               <hi>God may juſtly, for the abuſe of Gifts, Ordinances, or Administra<g ref="char:EOLhyphen"/>tions: take them away and ſtill with-hold them?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> From thoſe that abuſed them he may, but for their abuſe, to with-hold them from their ſucceſſors: is to <hi>ſet childrens teeth an edge, for fathers eating ſower grapes.</hi> Ezek. 18.2, 3, 4.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>3</label>
+               <hi>Whether there hath been a reſtauration, ſince that defection?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>4</label>
+               <hi>When, and how far this reſtauration hath been?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> That a Reſtauration hath been in part, (even in <hi>England</hi>) both in doctrine, and practice: thouſands can experimentally teſtifie. Which reſtauration will be more and more, <hi>Cant.</hi> 2.12.13.15.
+<pb n="2" facs="tcp:113863:4"/>
+               <hi>Dan.</hi> 12.4.9.10. In the meane while we ought to <hi>walke by our, rule, ſo far as we have attained.</hi> Phil. 3 16.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>5</label>
+               <hi>Whether there be any pattern of a true Church under the Goſpel that ever was gathered without Baptiſme?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> No, for the 3000. <hi>Acts</hi> 2.41. were added by baptiſme, which could not be, if the Church they were added to, were not alſo baptized, and baptiſme is the entrance into Chriſt, (in reſpect of order) <hi>Gal.</hi> 3.27. <hi>Iohn</hi> 3.5. <hi>Rom.</hi> 6.1, 2.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>6</label>
+               <hi>Whether any people (how godly ſo ever) may gather and baptize themſelves, and others: unleſſe they have a Commisſion from Heaven, (as Iohn, the Apoſtles and Ananias had) either imediatly, or mediatly, by the viſible gifts of the Holy Spirit? As</hi> Iohn 16.33. and 17.18. Math. 28. Acts. 9.10.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> This querie declares much ignorance in the querer.</p>
+            <p>For firſt, never had <hi>Iohn,</hi> the Apoſtles, <hi>Ananias,</hi> nor any o<g ref="char:EOLhyphen"/>ther, a Commiſſion to baptize themſelves.</p>
+            <p>Secondly, (Viſible gifts) is not Scripture language, but very improper, becauſe though the baptiſme of the Spirit, was ſome<g ref="char:EOLhyphen"/>time viſibly ſeen like <hi>a Dove,</hi> or <hi>like firie tongues, Math.</hi> 3.16. <hi>Acts</hi> 2.3. Yet it was not alwaies ſeen. For the Iewes knew not that the Gentiles had it, tell they <hi>heard them ſpeake with tongues, and magnifie God. Acts</hi> 10.46. And never was any other gift vi<g ref="char:EOLhyphen"/>ſible, no not once, though their effects were viſible, as <hi>healing the ſick, raiſing the dead,</hi> &amp;c. A knowing man can diſtinguiſh be<g ref="char:EOLhyphen"/>twixt a thing it ſelfe, and the effects it produceth.</p>
+            <p>Thirdly, Theſe gifts (improperly called viſible) are not Commiſſions from Heaven, nor ſo called. Fourthly, they fit not for adminiſtrator-ſhip. For <hi>Iohn</hi> had a commiſſion from Heaven, and was a lawfull Adminiſtrator, <hi>Mat.</hi> 21.25. <hi>Iohn</hi> 1.33. though he had not theſe gifts, <hi>Iohn</hi> 10.41.</p>
+            <p>And Chriſts Diſciples, were lawfull Adminiſtrators, <hi>Ioh.</hi> 3.22. and 4.1 2.3. When they had not Apoſtle ſhip, nor power to worke miracles, nor the baptiſme of the ſpirit, for this Admi<g ref="char:EOLhyphen"/>niſtrator-ſhip, was before <hi>Iohns</hi> impriſonment, <hi>Iohn</hi> 3.34. or
+<pb n="3" facs="tcp:113863:4"/>
+Chriſt returne to <hi>Galilee, Iohn</hi> 4.3. But after theſe things; many of the twelve came to Chriſt, <hi>Mark.</hi> 1.14.16.19. and 2.14. and after this, Chriſt choſe the twelve, from other Diſciples: and after this choice, he called them Apoſtles, and then gave them power to heale ſickneſſes, caſt out Devills, &amp;c. <hi>Mark.</hi> 3.13.14.15. <hi>Mat.</hi> 10.2. And their baptiſme with the ſpirit, was not till after Chriſts aſſenſion, <hi>Acts</hi> 1.4.5. and 2. chap.</p>
+            <p>
+               <hi>Whether Iohns baptiſme, and miniſtrie, were not to end when <label type="milestone">
+                     <seg type="milestoneunit">Que. </seg>7</label> Chriſts were fully come?</hi> Iohn 3.30. Act. 13.25.</p>
+            <p>No verily, for firſt, thoſe places ſpeake no ſuch thing, 2.<label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> 
+               <hi>Iohn</hi> began Chriſts Goſpel, prepared his way, made his pathes ſtraight, <hi>Mark,</hi> 1.1, 2, 3, 4.</p>
+            <p>
+               <hi>Whether any were baptized in the name of the Lord Ieſus, or of <label type="milestone">
+                     <seg type="milestoneunit">Que. </seg>8</label> Chriſt, before the aſſenſion, or with</hi> Iohns <hi>baptiſme after the aſſenſion?</hi>
+            </p>
+            <p>Yea verily, for theſe differ not,<label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> being both the baptiſme of water, <hi>Acts</hi> 1.5. and 10.47.48. and both <hi>the baptiſme of repen<g ref="char:EOLhyphen"/>tance, for the remisſion of ſins.</hi> Mar. 1.4. Acts 2.39.</p>
+            <p>
+               <hi>Whether there be not a baptiſme for the giving, and receiving of <label type="milestone">
+                     <seg type="milestoneunit">Que. </seg>9</label> the holy ſpirit, diſtinct from that of</hi> Iohn <hi>or Chriſt, ſeeing Philip it ſeemes, could not adminiſter that of the holy ſpirit, though he did ad<g ref="char:EOLhyphen"/>miniſter the other.</hi> Act. 8.12.15.16.17.</p>
+            <p>The baptiſme of water, and the baptiſme of the holy ſpirit,<label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> are doubtleſſe two diſtinct baptiſmes, <hi>Act.</hi> 1.5.</p>
+            <p>
+               <hi>Whether the baptiſme in the Apoſtles Commisſion,</hi> Mat. 28. Mar.<label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>10</label> 16. <hi>were the baptiſme of</hi> John, <hi>ſo called,</hi> Mat. 3.7. and 21.25. Act. 1.22. and 18.25. and 19.3. <hi>or the baptiſme of Chriſt, or in the name of the Lord Ieſus, ſo called,</hi> Act. 2.38. and 8.16. and 10.48. and 19.5. <hi>or the baptiſme with, or in the name of the holy ſpirit ſo called,</hi> Math. 3.11. and 28.19. Mark. 1.8. Luk. 3.16. <hi>or all theſe baptiſmes together?</hi>
+            </p>
+            <p>I have proved the two firſt not to differ, (querie 8.) ſecondly,<label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> the baptiſme of, or with the holy ſpirit, is not called a baptiſme in the name of the holy ſpirit, this is a meer deluding falſhood of purpoſe to pervert, Mat. 28.19. which place ſpeakes not of
+<pb n="4" facs="tcp:113863:5"/>
+the baptiſme of the ſpirit, but of the baptiſme of water. For it is the diſcipliſing baptiſme, and that is that with water, <hi>Ioh</hi> 4.1.2. compared with <hi>Ioh.</hi> 3.22.23. Secondly, it is that baptiſme to which is annex<g ref="char:punc">▪</g>t the promiſe of the ſpirit. <hi>Mat.</hi> 28.20. <hi>Mark.</hi> 16.17. and that is that with water. <hi>Mat.</hi> 3.11. <hi>Mark.</hi> 1.8. <hi>Act.</hi> 2.38.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obicte. </seg>
+               </label>
+               <hi>Where is that baptiſme ſaid to be in the name of the father, ſon and ſpirit?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> The baptiſme with water, is the baptiſme in the name of the Lord Ieſus, but the baptiſme of the ſpirit is not. <hi>Act.</hi> 8.15.16. and 10.47.48. and he (as man) is his fathers deputie, doing and ſpeaking his fathers will. <hi>Heb.</hi> 1.1.2. <hi>Ioh.</hi> 7.29. Therefore what is done in his name, or in obedience to him, is in the name of, or in obedience to the Trenity or God-head, <hi>Luk.</hi> 10.16.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>11</label>
+               <hi>Whether the baptiſme of Chriſt, be to be adminiſtred with water?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Yea, <hi>Act.</hi> 8.38. and 10.47.48.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>12</label>
+               <hi>Whether the baptiſme of the ſpirit be adminiſtred with water?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> No, <hi>Act.</hi> 1.5.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>13</label>
+               <hi>Whether the baptiſme of</hi> Iohn, <hi>or the baptiſme of Chriſt, in the miniſtration with water, be to be adminiſtred with theſe words</hi> (in the name of the father?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Chriſt did not bid ſay, I baptize thee in the name, &amp;c. He bid doe it in the name, &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>14</label>
+               <hi>Whether all that were viſibly baptized in the name of the Lord Ie<g ref="char:EOLhyphen"/>ſus, received, or were they viſibly baptized, with the holy ſpirit?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> All baptized Beleevers, had more or leſſe, ſooner or later, that baptiſme of the ſpirit, which you call viſible, <hi>Act.</hi> 2.38 39.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quere, </seg>15</label>
+               <hi>Whether ever any particular Churches of Chriſt, officers, officer, or People (as by vertue of particular Church priveledges) did, or had power to adminiſter, either all, or any of the aforeſaid baptiſme?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Any Church that had abilitie, had alſo authority to admini<g ref="char:EOLhyphen"/>ſter either baptiſme, but ſome wanted abillitie to adminiſter that of the ſpirit, ſo much as on themſelves, <hi>Act.</hi> 8.16, 17, 19.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>16</label>
+               <hi>Whether Elders, Biſhops, Paſtors or Deacons, had any more power by vertue of theſe titles of office, to adminiſter in matters of worſhip,
+<pb n="5" facs="tcp:113863:5"/>
+then any other in the Church had, or might have: though they were no officers?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Diſciples as Diſciples, have power from Chriſt, to admini<g ref="char:EOLhyphen"/>ſter, <hi>Iohn</hi> 4.1, 2. <hi>Mat.</hi> 25.16, 18, 19. <hi>Acts</hi> 9.10. yet may a Church, I conceive, make uſe moſt uſually, of her ableſt Mem<g ref="char:EOLhyphen"/>bers <hi>Acts</hi> 13.1. with <hi>Acts</hi> 15.22.35.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>17</label>
+               <hi>Whether the Officers afore ſaid, were not only civell?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> No, Chriſt is a <hi>ſoule Biſhop,</hi> or Shepheard, 1 <hi>Pet.</hi> 2.25. And theſe are his Deputies, 1 <hi>Pet.</hi> 5.1, 2, 3, 4. Alſo the flock and food is ſpirituall, therefore Paſtors alſo.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>18</label>
+               <hi>Whether the viſible preſence of Chriſt, or any other of his viſible miniſtries or miniſtrations of worſhip: were to continue any longer time, then the viſible power and preſence of the holy ſpirit by gifts, which was before told ſhould accompany them, and was fulfild accor<g ref="char:EOLhyphen"/>ding to theſe and other Scriptures,</hi> Mat. 3.11. Mark 16.17, 18, 20. Iohn 1.33 and 7.39. and 14.26. and 16 13. Act. 1.25. and 2.38.43. and 8.16.17. and 11.15.16. and 19.5 6. Heb. 2.3.4.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> This querie declares horrible ſottiſhneſſe in the querer. For firſt, the ſpirit was not in this ſort preſent, till Chriſts viſible preſence was gone, <hi>Iohn</hi> 16.7. Secondly, not one of theſe Scriptures doe fore tell that theſe gifts ſhould accompanie mi<g ref="char:EOLhyphen"/>niſtries and miniſtrations of worſhip. Thirdly, not one of them affirmes ſuch a thing to be fulfild. Fourthly, ſome of them de<g ref="char:EOLhyphen"/>clare the word to be confirmed by them, As <hi>Mar.</hi> 16.20. <hi>Heb.</hi> 2. But that being confirmed, and people receiving that for Gods word, they are to ſubmit to it, without ſeeing miracles for ſuch as now give nor heed to but neglect it, cannot eſcap. Becauſe Chriſt and others, <hi>at firſt preach it,</hi> and God <hi>even then bore witneſſe to it,</hi> or to them preaching it, <hi>with miracles,</hi> and other gifts of the ſpirit, as he at that time pleaſed, <hi>Heb.</hi> 2.1, 2, 3, 4. Theſe gifts were to confirm doctrin while it was new, Mar. 1.27. Thus with <hi>Moſes</hi> and the Prophets ſo alſo with Chriſt.</p>
+            <p>But now Gods laſt ſpokes-man, hath already uttered, and con<g ref="char:EOLhyphen"/>firmed his laſt meſſage, Mar. 21.36.37. Heb. 1.1. and 2.3.4.
+<pb n="6" facs="tcp:113863:6"/>
+therefore Gods uſe and end for miracles, or gifts, termed viſible, is null. For whoſoever teacheth otherwiſe now, then what is al<g ref="char:EOLhyphen"/>ready taught, is to be accurſt, <hi>Gal.</hi> 1.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>19</label>
+               <hi>Whether the viſible gifts of the holy ſpirit, were not the life, power, &amp;c. of the viſible miniſtries and miniſtrations of the Goſpel, as much at leaſt as the holy anointing oyle, and the bodie of Chriſt was the life of thoſe under the law?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> To compare oyle with Chriſts body, I account it blaſphemie, Secondly theſe gifts, termed viſible, are not the life and power of Goſpel miniſtrations, for they lived and acted without them, as I minded in querie the 6. how <hi>Iohn</hi> and Chriſt Diſciple admi<g ref="char:EOLhyphen"/>niſtred in a Goſpel way, when they had not ſuch gifts. That <hi>John</hi> was a Goſpeller, ſee further <hi>Mat.</hi> 11.10.12. <hi>Marke</hi> 1.12.4. <hi>Luke</hi> 16.16.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>20</label>
+               <hi>Whether the death of the <g ref="char:V">Ʋ</g>iſible bodie of Chriſt, was not the death of the viſible miniſtries and miniſtrations of the Law?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Yea, and well it may, being the ſubſtantiall Antitype of thoſe Types and ſhadowes, <hi>Col.</hi> 2.17. <hi>Heb.</hi> 9.9, 10, 11. &amp; 10 1, 2.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>21</label>
+               <hi>Whether the death of the viſible power of Chriſt, by the ceaſing of the viſible gifts of the holy ſpirit, was not the death of the viſible mi<g ref="char:EOLhyphen"/>niſtries and miniſtrations of the Goſpel?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> The ceaſing of gifts cannot kill Goſpell miniſtries or mini<g ref="char:EOLhyphen"/>ſtrations of Worſhip, firſt becauſe they never had life by them, as querie 6. and 18. Secondly, neither were Goſpel adminiſtrati<g ref="char:EOLhyphen"/>ons ſhadowes of theſe gifts, as the miniſteries of the Law were of Chriſts death.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>22</label>
+               <hi>Whether it be posſible for any man to be a true viſible Preacher or Miniſter of worſhip in any other kind, according to</hi> Rom. 12.6.7. 2 Cor. 12.3, 7. Epheſ. 4.7. 2 Tim. 4.14, 15. 1 Pet. 4.10.11. <hi>unleſſe he hath received, or been viſiblie baptized with the holy ſpirit that if way be manifeſt to ſence, that it is imediatly, or mediatly after a ſupernaturall way from God?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Tis doubtleſſe poſſible, for ſuch to be viſible Preachers, and Miniſters of worſhip, that have neither gift of miracle, nor the ſpirits baptiſme, as is proved in quetie 6.</p>
+            <p>
+               <pb n="7" facs="tcp:113863:6"/>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>23</label>
+               <hi>Whether if any can, or at leaſt will pretend to adminiſter in a Goſpell way, vi<g ref="char:EOLhyphen"/>ſibly (who are dead to it, for want of viſible life by gifts) why may not every one that can and will pretend it?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ </seg>
+               </label> I have oft proved that the want of gifts make not men dead to admi<g ref="char:EOLhyphen"/>niſtrations, Secondly, though beleeving men in the ways of God may adminiſter, yet firſt, unbeleevers may not. <hi>Pſal.</hi> 50.16.17. Secondly, Non-participaters, (though beleevers) may not, (when Chriſts wayes are afoot) for Chriſt himſelfe would not preach the Goſpel, but firſt be baptized, to fulfill righteouſneſſe, even a righteous order. <hi>Mat.</hi> 3.15. and 4.23. And <hi>Paul</hi> though appointed to witneſſe Chriſt to the Gen<g ref="char:EOLhyphen"/>tiles, muſt firſt be baptized. <hi>Acts</hi> 22.15, 16. Thirdly, beleeving wo<g ref="char:EOLhyphen"/>men (though baptized) may not in the Church (by adminiſtring) u<g ref="char:EOLhyphen"/>ſurp authority. 1 <hi>Cor.</hi> 14.34 1. <hi>Tim.</hi> 2.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>24</label>
+               <hi>Whether any beleever now living in the world, can truly ſay he is viſibly baptized with the holy ſpirit? according to</hi> Acts 8 15 16.17. and 10 44.45. and 19.2. <hi>and many other places?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Firſt, I have proved this baptiſme, not to be alwayes viſible, from <hi>Acts</hi> 10.45.46. Secondly, everie baptized beleever (ſince Chriſt aſſen<g ref="char:EOLhyphen"/>tion) is, or ſhall be, little or much baptized with the holy ſpirit, or elſe God keeps not promiſe. <hi>Acts</hi> 2.17, 18.38.39. <hi>Iohn</hi> 7.38.39 Be<g ref="char:EOLhyphen"/>leevers without this, are without their earneſt, and likewiſe unſealed, <hi>Epheſ.</hi> 1.13.14. which I doubt the Querer is.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>25</label>
+               <hi>Whether any beleever now living in the world, can ſhew what this particu<g ref="char:EOLhyphen"/>lar gift, or gifts are, and after what manner or forme particular gifts are to be adminiſtred, as the gift of knowledge, wiſedome, faith, miracles, propheſie, diſearning of ſpirits, tongues, interpretation of tongues? &amp;c.</hi> 1 Cor. 12.8.9.</p>
+            <p>What the baptiſme of the ſpirit, (the Birth-right of every called one) is? I purpoſe (God aſſiſting) to declare fully, from <hi>Acts</hi> 19. In a booke which I ſhall intitle, (A two fold baptiſme) in the meane while, ſee the ſubſtance of it, in <hi>Acts</hi> 2.18. in theſe words. <hi>(On my ſervants and hand<g ref="char:EOLhyphen"/>maids, will</hi> I <hi>poure my ſpirit, and they ſhall propheſie.)</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label>
+               <hi>God will poure his ſpirit</hi> on them, (that is the gift) and <hi>they ſhall prophe<g ref="char:EOLhyphen"/>ſie,</hi> (that is the effect) they ſhall be filled with the holy ſpirit, as a foun<g ref="char:EOLhyphen"/>taine is filled with water, that is the gift, and the fulneſſe within, ſhall bubble forth, that is the effect, as <hi>Iohn</hi> 7.38, 39. <hi>Acts</hi> 2.4 <hi>The appea<g ref="char:EOLhyphen"/>rance of fierie tongues,</hi> is an overplus in the gift, and the <hi>ſpeaking with tongues,</hi> is an overplus in the effect.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>26</label>
+               <hi>Whether any that hath a viſibile gits, or gifts of the ſpirit, muſt not of neceſſi<g ref="char:EOLhyphen"/>ty know that he hath ſo?</hi>
+            </p>
+            <p>
+               <pb n="8" facs="tcp:113863:7"/>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Tis likely he ſhould, yet I conceive, it may poſſibly be otherwiſe. For <hi>Sampſon thought the ſpirit abode with him,</hi> when it was gon. <hi>Iudg.</hi> 16.20.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>27</label>
+               <hi>Whether any that hath a viſible gift or gifts of the ſpirit: must not of neceſſi<g ref="char:EOLhyphen"/>ty adminiſter infallibly, when he adminiſters by them?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Yea doubtleſſe. 1 <hi>Cor.</hi> 12.3.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Qu. </seg>28</label>
+               <hi>Whether any one that hath a viſible gift or gifts of the ſpirit, adminiſtring ſometime by them, and ſometime beſide them, muſt not of neceſſitie know, when he adminiſters infallibly by them, and when beſide them: As well at least as any Officer in commiſſion, or any Souldier of, or in any Armie, or any Officer, or member of a civill ſtate; can tell when he adminiſters or acts, according to his commiſſion, institution, bi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th, priveledges, &amp;c. and when it is not?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> We have our Commiſſions, inſtitutions, &amp;c. not from gifts, but from the written word. 1 <hi>Cor.</hi> 14.37. <hi>Gal.</hi> 1 8 9 2 <hi>Pet.</hi> 1.17.18.19. Secondly, there is a poſſibillity for people thus gifted, to be miſtaken in this kind. For the <hi>Corinthians</hi> which <hi>came ſhort in no gift,</hi> 1 Cor. 1.5, 6.7. Suppoſed the ſpirit taught them to let women teach in the Church. 1 <hi>Cor.</hi> 14.35, 36, 37, 38. and the <hi>Galatians</hi> had theſe gifts, and yet that was errour, which they tooke for truth, and they fell backward, when they thought they went forward, <hi>Gal.</hi> 3.2, 3.5. and yet all the Saints, (gifted or not gifted) are in ſome things infallible. <hi>Iohn</hi> 21.24. and 1 <hi>Iohn</hi> 5 18, 19, 20.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>29</label>
+               <hi>Whether any that hath a viſible gift, or gifts of the ſpirit, muſt not of neceſſi<g ref="char:EOLhyphen"/>tie know, when he adminiſters each ſeverall gift?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> No, we may poſſibly thinke, we adminiſter the gift of wiſedome, when envie is in us: or the gift of knowledge, when pride hath poſſeſt us, or uncharitableneſſe: but are deceived. <hi>Iam.</hi> 3.13.14, 15. 1 <hi>Cor.</hi> 8.1, 2, 3.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>30</label>
+               <hi>Whether it be not neceſſary that the viſible gifts of the holy ſpirit, ſhould con<g ref="char:EOLhyphen"/>tinue in the Church, as long as there is a Church, to diſtinguiſh between chri<g ref="char:EOLhyphen"/>ſtian and antichriſtian ſpirits. As in civill affaires, officers and members of a ci<g ref="char:EOLhyphen"/>vill ſtate ſhould have viſible commiſſions, inſtitutions, birth-priveledges, &amp;c. to diſtinguiſh them from falſe intruders?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Firſt, any man indude with reaſon, will deny thoſe gifts (which you call viſible) to be Commiſſions and inſtitutions. Secondly, civill Com<g ref="char:EOLhyphen"/>miſſions and inſtitutions are written, ſo are ours, as before minded, Thirdly to diſtinguiſh between Antichriſtian and Chriſtian ſpirits, was not Chriſts end for gifts, as querie 18. Fourthly, Antichriſtians, ſhall by <hi>miracles deceive all except the Elect. Mat.</hi> 24.24. <hi>Rev.</hi> 13.13, 14, 15.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>31</label> Whether the viſible Church, want not members, when any of the gifts are wanting in it? according to 1 <hi>Cor.</hi> 12.</p>
+            <p>
+               <pb n="9" facs="tcp:113863:7"/>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> That chapter, ſpeakes only of the Church generall, whereof the church at <hi>Corinth,</hi> was a <hi>body or members in particular.</hi> A part of the whole as verſe 27. So that this Church wants not members, if ever theſe gifts were, though particulars have them not, and whoever now hath in<g ref="char:EOLhyphen"/>treſt in the Church generall, hath intreſt in them gifts. <hi>Ioh.</hi> 20.30, 31.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>32</label> Whether viſible gifts, and conſequently viſible miniſtries, and mini<g ref="char:EOLhyphen"/>ſtrations of worſhip, were not to ceaſe all at one time, ſeeing they came all from one ſpring. 1 <hi>Cor.</hi> 12 4.5, 8, 9, 11, 13. and 13.8.13.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Theſe adminiſtrations, 1 <hi>Cor.</hi> 12.4.5. are Chriſts adminiſtrations of gifts, not our adminiſtration of worſhip, (a great miſtake) I confeſſe that when theſe gifts ceaſe, our Lord ceaſeth to adminiſter them, and theſe adminiſtrations of gifts, ſpring not from a command, as our admi<g ref="char:EOLhyphen"/>niſtrations of worſhip doe, <hi>Ioh.</hi> 15.14.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>33</label> Whether the food of the Church, (after viſible gifts) ſhould not be imediatly from God, without any viſible meanes. As the Saints witneſ<g ref="char:EOLhyphen"/>ſes, &amp;c. according to <hi>Ier.</hi> 31.33.34, <hi>Ezek.</hi> 34.11, 12, 13, 14.15. <hi>Revel.</hi> 12.6.14.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Firſt, your Scripture, <hi>Rev.</hi> 12.6. ſaith, <hi>they ſhall feed her.</hi> Secondly, your other Scriptures, ate not fulfilled in this life, for now we know but in part, and ſee as in a glaſſe darkly. 1 <hi>Cor.</hi> 13. But when Chriſt againe appeares, then, and not tell then <hi>we ſhall ſee him as he is,</hi> even <hi>face to face, and know as we are known.</hi> 1 <hi>Cor.</hi> 13. 1 <hi>Iohn</hi> 3.2, 3. and tell then, we are to make uſe of word and ordinances. 2 <hi>Pet.</hi> 1.19 1 <hi>Cor.</hi> 11.26. <hi>Rev.</hi> 2.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>34</label> Whether there be in the Scripture, any cleere proofe for the time, rule for manner, and diſcriptinn of the power, for reſtoring the Church from the defection, from faith, order, &amp;c. as there was under that defection of the law. 2 Chron 36.22.23.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> That place diſcribes no rule for manner, nor power fot reſtoring, but only the time when: but our Goſpel rule gives a commanding power to reſtore its faith or order. Iude 3 Rev. 2.4, 5. As of old, their written commands, and inſtitutions, gave power, and their reſtaurations were ſquared thereby Ezra 3.2.4 10. Nehe. 8.14 15.16. ſo now.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>35</label> Whether it be not cleere from Ezra 1.12. and 6.14. Zach. 4.6. and many other places that <hi>Ezra</hi> and the reſt, went not about to reforme, tell they had a particular command from God, with power and particu<g ref="char:EOLhyphen"/>lar promiſes of protection, and ſucceſſe, and ſtrengthned with moſt ſweet and gracious promiſes?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Firſt, to expect imediate Revelations from Heaven to Prophets, and from them to people now, is to deny Chriſt, as come in the fleſh
+<pb n="10" facs="tcp:113863:8"/>
+Former Prophets, typifying ours, and he is the Antytipe of them, Acts 3.22.23. Heb. 1.1 Secondly, theſe Prophets gave them not their 1. com<g ref="char:EOLhyphen"/>miſſion. But (the worke by oppoſition ceaſing) their prophecying did only reincourage them. As is cleere. Ezra 4 24. and 5 1.2. Hag. 1.2.3.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>36</label> Whether 1 Cor. 12.1. <hi>As concerning ſpirituall gifts brethren, I would not have you ignorant,</hi> &amp;c. Doth it not lay an abſolute neceſſity upon eve<g ref="char:EOLhyphen"/>ry one that will adminiſter in a Goſpel way, to be really poſſeſt with ſuch gifts as alſo, rightly to underſtand them.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Want of gifts hinders not adminiſtring in a Goſpel way, as querie. 6. Ioh. 3 22.23. Mar. 1.1.2.3.4. Yet I grant that none is to adminiſter beyond his abillitie, Rom. 12.3.6. He that hath but one tallent is not to uſe five: nor yet to hide his one becauſe he hath not five. But <hi>every one is to adminiſter, as he hath received.</hi> 1 Pet 4 10.11. <hi>Or he ſhall be bound and caſt into utter darkeneſſe,</hi> Mat. 25.30.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>37</label> Whether it be not player like childiſh, apiſh, improper, and Anti-chriſtian: for any to pretend to adminiſter viſibly <hi>in the name of the father ſon and ſpirit,</hi> that wants power to give the holy ſpirit, &amp;c. or at leaſt that hath not viſibly Goſpel life himſelfe by it, for matter of faith, order, &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Here is horrible impiety diſcovered, firſt reckoning Chriſts ſervice, apiſhneſſe, Secondly, accounting people ungifted, to be lifeleſſe, touch<g ref="char:EOLhyphen"/>ing either faith, or order.</p>
+            <p>Firſt, <hi>Iohn</hi> and Chriſts diſciples, querie 6 and <hi>Philip</hi> as you grant, que<g ref="char:EOLhyphen"/>rie 9 adminiſtred the baptiſme of Chriſt, when they could not conveigh the ſpi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it, Secondly, the <hi>Samaritanes,</hi> had viſible life touching faith, and order. For they beleeved and were bapt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>zed. Acts 8 12. or received the word of God, verſ 14 and the <hi>Epheſians</hi> had viſible life touching faith and order. For <hi>Paul,</hi> (though a ſtranger) found them to be beleeving diſciples. Act. 19 1.2. when both the <hi>Samaritanes,</hi> and <hi>Epheſians,</hi> wan<g ref="char:EOLhyphen"/>ted (as yet) your leaſt degree (to wit) the baptiſme of the ſpirit, as Acts 8.16. and 19. 2 6. Which you falſly call viſſible life, &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>38</label> Whether miniſtring viſibly in the name of God or Chriſt, in a bare forme, without the viſible anointing baptiſme, preſence &amp;c of the holy ſpirit, by and with gifts to adminiſter without the power and authoritie of Ieſus Chriſt, be not plain deceiving, cozning, a falſe viſion, a divina<g ref="char:EOLhyphen"/>tion of their own hearts, a thing of naught, falſe dreames, lyes lightneſſe, &amp;c. Ier. 14.14 and 23.21.25, 26, 27 32. Mat. 24. Yet all in the name of Chriſt, &amp;c. and from running before ſending, and climbing up ſome other way, then God and Chriſt hath ordained. Incurring to him<g ref="char:EOLhyphen"/>ſelfe that heavie vengeance, Numb. 18.7 Deut. 18.20 Ier. 13.14. Revel 20.10.</p>
+            <p>
+               <pb n="11" facs="tcp:113863:8"/>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> To affirme (as you doe) that ſuch adminiſtrations, that are in the name of God, or Chriſt, are without the authoritie of Chriſt, if not accompanied with gifts, muſt needs be deceiving, cozning, a falſe viſion, &amp;c. and from running, before ſending, &amp;c. Becauſe (as often minded) <hi>Iohn</hi> and others that wanted theſe gifts, did adminiſter by authoritie from God or Chriſt, <hi>Iohn</hi> 1.33. <hi>Math</hi> 21.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>39</label> Whether adminiſtring viſibly, or rather ſeeming to adminiſter in a Goſpel way, without a true viſible power &amp; commiſſion by gifts &amp;c Or to partake of ſuch miniſtries or miniſtra<g ref="char:EOLhyphen"/>tions: be not to ſet up an Idoll, yea Idolatrie in the higheſt degree: as farr above <hi>Ieroboams</hi> calvos, as Goſpel is above the law, Chriſt above <hi>Moſes,</hi> and ſpirituall <hi>Babell</hi> with her plagues, <hi>Rev.</hi> 18.21. above literall <hi>Babell</hi> with hers. <hi>Ier.</hi> 51.63.6<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Then had <hi>Iohn</hi> and others a commiſſion, to ſet up Idolatrie in the higheſt degree (they wanting theſe gifts as aforeſaid.) Secondly, if theſe gifts, be viſible power and commiſſion, then <hi>Iohn</hi> and others (that had not theſe gifts) had no viſible commiſſion at all, oppoſite to <hi>Iohn</hi> 1.33.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>40</label> Whether to partake of ſuch miniſtries and miniſtrations, either in reſpect of time, place, matter or forme of worſhip, or whatever comes under inſtitution of Antichriſt, (as everie inſtitution doth, that is not from Chriſt) be not <hi>to receive the mark of the Beaſt, number of his name, and to worſhip the beaſt and his image, and ſo to be liable to thoſe dreadfull plagues, Ier</hi> 14.13, 14, 15, 16. &amp; 29.15.16.17, 18. <hi>Rev.</hi> 14.9 10, 11. &amp;c. read and tremble.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Your ſpeech is at randome, not having (as yet) proved our time, place, matter or forme of worſhip: to be of Antichriſt, or not from Chriſt.</p>
+            <p>I can prove the neglecters, (much more the oppoſers) of Gods way of worſhip, to be <hi>reſiſters of his counſell, and that againſt themſelves, and liable to be plagued, Luke</hi> 7.30. <hi>Math.</hi> 12.30. <hi>Rev</hi> 4.7 12. read and trimble.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>41</label> Whether it doth not highly concerne every one that feares the Lord, to be infallibly aſſured of the warrantableneſſe of their practice, and power in matters of viſible worſhip, leaſt the Lord account them, takers of his name in vaine, will worſhippers, and Antichri<g ref="char:EOLhyphen"/>ſtians, and ſo guilty of, and liable to that ſin and vengeance, <hi>Ex.</hi> 26.5. <hi>Deu.</hi> 4.2 and 12.32. <hi>Pro.</hi> 30.6. <hi>Rev.</hi> 21.10.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> This is a truth and good counſell, but not well applyed, for firſt not true, but falſe worſhippers are herein tardie. <hi>Rev.</hi> 14.7.9. Secondly fearers of the Lord, are alſo wor<g ref="char:EOLhyphen"/>ſhippers of the Lord and non-worſhippers are non-fearers. <hi>Pſal.</hi> 2.11. <hi>Pſal.</hi> 5.7. <hi>Rev.</hi> 1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.7. and many more places.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>42</label> Whether <hi>Exod.</hi> 25.9.40. and 10.33. <hi>Levit.</hi> 10. 1, 8. <hi>Numb.</hi> 16.7. <hi>Pſal.</hi> 138.2. <hi>Ezek.</hi> 15.6. and 43.8.9.11.12. and many other places, Eſpecially <hi>Pſal.</hi> 138.2. <hi>I will worſhip toward thy temple and praiſe thy name, for thy loving kindneſſe, and truth, for thou haſt magnified thy word above all thy names.</hi> Doth it not eminently declare the excee<g ref="char:EOLhyphen"/>ding tranſcendencie of Gods worſhip, above all other his name, workes and ordinances whatſoever. And conſequently that all the murders, rapes, oppreſſions plunderings, blaſ<g ref="char:EOLhyphen"/>phemies, or whatever grievious ſins, have been, or ſhall be committed, are little or no<g ref="char:EOLhyphen"/>thing in compariſon of this great blaſphemie, to wit, abuſe of this great and glorious name of God, by falſe and will worſhip.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Therefore you might even trimble thus to murder, rape, and plunder this glorious name of God, to wit, his worſhip, for not falſe and will worſhip, but true worſhip, you raile a<g ref="char:EOLhyphen"/>gainſt the conſideration of the excellencie of this name, wrought a contrary effect in <hi>Da<g ref="char:EOLhyphen"/>vid, who therefore worſhipt toward his holy temple.</hi> Pſal. 138.2. <hi>Here O heavens, and wit<g ref="char:EOLhyphen"/>neſſe O earth,</hi> (at the great day of Chriſt) againſt this horrible and deſperate plundering of this glorious name.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>43</label> Whether it may not be gathered from Scripture, that there ſhould be, &amp;c. a time for beleevers, &amp;c to be ſilent, &amp;c. and that there ſhould be night to viſible worſhip, &amp;c. and
+<pb n="12" facs="tcp:113863:9"/>
+they ſhould wait on the Lord for a reſtauration and reformation, &amp;c. <hi>Eccleſ.</hi> 3.7. <hi>Cant.</hi> 1.13. and 3.1. and 5.2. <hi>Eſay</hi> 5.30. and 13.9, 10. and 26.20. and 28.26. and 60.2. <hi>Ier.</hi> 13.16. and 14.22. <hi>Dan.</hi> 12.12. <hi>Hoſ.</hi> 3.4, 5. <hi>Ioel</hi> 2.2, 10. <hi>Amos</hi> 5.13. and 8.9, 10.11. <hi>Mich.</hi> 3.6.7. and 7.7, 8.14.15. <hi>Hab.</hi> 2.3. <hi>Zeph.</hi> 1.4.15. and 3.8.9 <hi>Zach.</hi> 12.14.17. <hi>Math.</hi> 24 29. <hi>Mar.</hi> 15.43. <hi>Luke</hi> 2.25, <hi>Ioh.</hi> 9.4. 1 <hi>Cor.</hi> 1.7, 8. <hi>Rev.</hi> 8.1.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Indeed theſe words, <hi>ſilence; night; weight,</hi> are often in theſe Scriptures, but not once to pur<g ref="char:EOLhyphen"/>poſe, but each Scripture is horribly abuſed. Firſt, <hi>Solomons all things,</hi> are all accidents that befall us, his <hi>time of ſilence Eccle.</hi> 3.7. is an accidentall ſilence, as by death, &amp;c. and not an allowed time to be ſilent God-ward. As <hi>Eccleſ.</hi> 12.13. and if the righteous through feare, be altogether thus ſilent. As <hi>Amos</hi> 5.11.13. tis vice, not vertue, to be ſhund, nor followed as <hi>Eſay</hi> 62.6, 7. <hi>Mal.</hi> 3.15, 16, 17. <hi>And Chriſt will not owne ſuch hereafter, thus own not him novv. Mark</hi> 8.38. <hi>Iohns halfe houre ſilence Rev.</hi> 8.1 ſets forth Gods forbearing; to plague the ungodly, while the Saints acceptably worſhip, as verſe 2, 3, 4, 5. of this <hi>ſilence</hi> in other words, ſee further, <hi>Rev.</hi> 7.2, 3. 2 <hi>Pet,</hi> 3.9, 10. This <hi>night Cant.</hi> 1.13. &amp; 3.1. and 5.2. is the whole time before Chriſts ſecond comming, and that time is <hi>day time Rom.</hi> 13.12. <hi>Heb.</hi> 10.25. 2 <hi>Theſ.</hi> 2.1, 2, 3. <hi>bed</hi> is worſhip, true worſhip is Chriſts, or Gods bed, falſe worſhip, is <hi>a Whoriſh bed</hi> and idolatrie is <hi>whoredome God-vvard,</hi> or Chriſt ward, <hi>Eſay</hi> 57.7, 8. There we learne from <hi>Cant.</hi> 1.13. &amp;c. That night time is bed time, that is the time before Chriſts comming, is the only time of worſhip. See further, <hi>Luk.</hi> 19, 13. 1 <hi>Cor.</hi> 11, 26. 1 <hi>Tim.</hi> 6.13.14. 2 <hi>Pet.</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.19. <hi>Kevel.</hi> 2.25. This night then, is not night too, but night for worſhip, and this bed is not a want, but a joyfull enjoyment of Ordinances. <hi>Cant.</hi> 1.16, 17. And this <hi>Waiting,</hi> ſo often ſpecified, is ſometime a waiting for ſuccour from God, as <hi>Eſay</hi> 25.9. and 26.8. <hi>Mich.</hi> 7.7, 8. <hi>Zepa.</hi> 3.8. ſometime <hi>for Iſraels conſolation, Luk</hi> 2.5. <hi>Gods Kingdome, Mark.</hi> 15.43. the reſurrection <hi>or Chriſts comming, Dan.</hi> 12.12, 13. 1 <hi>Cor.</hi> 1.7, 8. ſometime for <hi>raine Ier.</hi> 14.22. <hi>H<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bacuk for a vi<g ref="char:EOLhyphen"/>ſion,</hi> 2.3. the Iewes waited on <hi>Zachoriah for the word of God Zach.</hi> 11.11.17. Chriſts Diſciples by command waited <hi>for the promiſe of the father,</hi> to wit the baptiſme of the ſpi<g ref="char:EOLhyphen"/>rit, <hi>Act.</hi> 1.4. but not one of theſe Scriptures ſpeakes of a waiting for worſhip but this laſt place hath greateſt ſhew, and is the ſpeciall place, which all ſeekers, or waiters in gene<g ref="char:EOLhyphen"/>rall cleave too, from that therfore note. Firſt, they waited not for ordinances, reſtaurati<g ref="char:EOLhyphen"/>ons, nor reformations of worſhip, but for the ſpirits baptiſme, <hi>Acts</hi> 1.4, 5. Secondly, for this they waited in a way of worſhip, or in the uſe of Ordinances, as firſt baptiſme, <hi>Acts</hi> 1.5. compared with <hi>Marke</hi> 1.8. Secondly prayer, <hi>Acts</hi> 1.14. Thirdly, preaching, verſe 16.17.18.19.20. Fourthly, exhortation, v. 21.22. Fiftly, ordination, v. 23. Sixtly ca<g ref="char:EOLhyphen"/>ſting of lots, v. 29. and all before this baptiſme. Hence note firſt, that waiting for wor<g ref="char:EOLhyphen"/>ſhip, or uſe of ordinances, is Scripture-leſſe, and ſo groundleſſe, ſecondly, waiting unbap<g ref="char:EOLhyphen"/>tized with water, for the baptiſme of the holy ſpirit is alſo groundleſſe yet, horrible pre<g ref="char:EOLhyphen"/>ſumption. <hi>Acts</hi> 2.38. for though the baptiſme of the ſpirit preceeded the other only one time, <hi>Acts</hi> 10.47. yet the promiſe ran not ſo, neither were any ever taught, ſo to expect it, but contrariwiſe, <hi>Acts</hi> 2.38. <hi>Mar.</hi> 1.8. <hi>Luke</hi> 3.16. <hi>Iohn</hi> 1.33. I alſo find in theſe Scripture, ſome words not minded in the querie, of them a word or two, by <hi>darkneſſe</hi> is meant ſometime <hi>ſorrovv,</hi> as <hi>Eſay</hi> 5.30. <hi>Ier.</hi> 13.16. with ver. 14. <hi>Zeph.</hi> 1.14.15. ſome<g ref="char:EOLhyphen"/>time ignorance, <hi>Eſay</hi> 60.2. <hi>Mich.</hi> 3.6.7. ſometime litterall darkeneſſe <hi>Eſay</hi> 13.10. <hi>Ioel</hi> 2.10. explained in <hi>Math.</hi> 24.29. that <hi>famine Amos</hi> 8. is not now, (if the writings of the Prophets and Apoſtles be Gods word) and though the Iewes, were and are <hi>Kingleſſe, Hoſ.</hi> 3 4.5. beleevers are not nor ſhall be, <hi>Luke</hi> 1.32.33. <hi>Beleevers make not haſt, Eſay</hi> 28.1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. that is, they haſten not to abtain by right or wrong, but expect the accompliſhment of their lawfull deſires in a lawfull way, but they <hi>doe haſten to keep Gods commands, Pſal.</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>9.60. <hi>Acts.</hi> 2 41 &amp; ought ſo to do. <hi>Acts</hi> 
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.16. Thus briefly I have diſcovered how horribly theſe Scriptures are abuſed, and how groundleſſe now worſhip is, if thou art hereby beni<g ref="char:EOLhyphen"/>fitted praiſe God, and practice thy light.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113863:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
